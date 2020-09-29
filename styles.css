@@ -1,0 +1,19 @@
+/* body {
+
+    border: 2px solid black;
+    min-width: 100%;
+    min-height: 100%;
+
+} */
+
+.pop-up {
+
+ border: 2px solid black;
+ border-radius: 10px;
+ margin: auto;
+ position: absolute;
+ top: 25%;
+ right:25%;
+ width: 50%;
+ height: 50%;
+}
